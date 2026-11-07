@@ -1,0 +1,231 @@
+[
+  {
+    "request": {
+      "mission_id": "IqQ477rVOEWSwWlxz-w_1_0NcEul6zt0f1gAZ87FEe4",
+      "activity_id": "9qU4-Iib6u1KpUp1J2mZsQAz",
+      "answer": {
+        "modality": "MULTIPLE_CHOICE",
+        "option_id": "kbIgP9iWgU4nx_YEqLxWNd5l"
+      }
+    },
+    "response": {
+      "mission_id": "IqQ477rVOEWSwWlxz-w_1_0NcEul6zt0f1gAZ87FEe4",
+      "activity_id": "9qU4-Iib6u1KpUp1J2mZsQAz",
+      "correct": true,
+      "xp_awarded": 10,
+      "replayed": false,
+      "feedback": "¡Buen trabajo!",
+      "explanation": "El dominio es el conjunto de entradas.",
+      "solution": {
+        "modality": "MULTIPLE_CHOICE",
+        "option_id": "kbIgP9iWgU4nx_YEqLxWNd5l"
+      },
+      "accepted_answers": [],
+      "progress": {
+        "answered": 1,
+        "correct": 1,
+        "total": 5,
+        "xp": 10,
+        "completed": false,
+        "can_advance": false,
+        "next_activity_id": "xuDwhNC6e0ueNVJoWxHIQrzp"
+      },
+      "adaptation": {
+        "action": "continue",
+        "next_difficulty": "beginner",
+        "review_objective_index": null,
+        "reason": "Continúa practicando el objetivo actual."
+      }
+    }
+  },
+  {
+    "request": {
+      "mission_id": "IqQ477rVOEWSwWlxz-w_1_0NcEul6zt0f1gAZ87FEe4",
+      "activity_id": "xuDwhNC6e0ueNVJoWxHIQrzp",
+      "answer": {
+        "modality": "FILL_BLANK",
+        "text": "el conjunto de entradas"
+      }
+    },
+    "response": {
+      "mission_id": "IqQ477rVOEWSwWlxz-w_1_0NcEul6zt0f1gAZ87FEe4",
+      "activity_id": "xuDwhNC6e0ueNVJoWxHIQrzp",
+      "correct": true,
+      "xp_awarded": 12,
+      "replayed": false,
+      "feedback": "¡Buen trabajo!",
+      "explanation": "El dominio es el conjunto de entradas.",
+      "solution": {
+        "modality": "FILL_BLANK",
+        "text": "el conjunto de entradas"
+      },
+      "accepted_answers": [
+        "el conjunto de entradas"
+      ],
+      "progress": {
+        "answered": 2,
+        "correct": 2,
+        "total": 5,
+        "xp": 22,
+        "completed": false,
+        "can_advance": false,
+        "next_activity_id": "OM7LcI1w9qDgKP-6wlG4OFTV"
+      },
+      "adaptation": {
+        "action": "continue",
+        "next_difficulty": "beginner",
+        "review_objective_index": null,
+        "reason": "Continúa practicando el objetivo actual."
+      }
+    }
+  },
+  {
+    "request": {
+      "mission_id": "IqQ477rVOEWSwWlxz-w_1_0NcEul6zt0f1gAZ87FEe4",
+      "activity_id": "OM7LcI1w9qDgKP-6wlG4OFTV",
+      "answer": {
+        "modality": "MEMORY_MATCH",
+        "pairs": [
+          {
+            "left_id": "SZ1J5RmaHezuZnmdpmJ8n8UY",
+            "right_id": "jK7VM6ng3Zza_9XFHwcEApfj"
+          },
+          {
+            "left_id": "p38PpUnYfk3R7utKNjiKZ-HY",
+            "right_id": "Zgo0LvACzqX8WQPyOAQadmjk"
+          }
+        ]
+      }
+    },
+    "response": {
+      "mission_id": "IqQ477rVOEWSwWlxz-w_1_0NcEul6zt0f1gAZ87FEe4",
+      "activity_id": "OM7LcI1w9qDgKP-6wlG4OFTV",
+      "correct": true,
+      "xp_awarded": 16,
+      "replayed": false,
+      "feedback": "¡Buen trabajo!",
+      "explanation": "El dominio es el conjunto de entradas.",
+      "solution": {
+        "modality": "MEMORY_MATCH",
+        "pairs": [
+          {
+            "left_id": "SZ1J5RmaHezuZnmdpmJ8n8UY",
+            "right_id": "jK7VM6ng3Zza_9XFHwcEApfj"
+          },
+          {
+            "left_id": "p38PpUnYfk3R7utKNjiKZ-HY",
+            "right_id": "Zgo0LvACzqX8WQPyOAQadmjk"
+          }
+        ]
+      },
+      "accepted_answers": [],
+      "progress": {
+        "answered": 3,
+        "correct": 3,
+        "total": 5,
+        "xp": 38,
+        "completed": false,
+        "can_advance": false,
+        "next_activity_id": "JfPgEAV5aU4wu2sEaji9PPmP"
+      },
+      "adaptation": {
+        "action": "increase_difficulty",
+        "next_difficulty": "intermediate",
+        "review_objective_index": null,
+        "reason": "Tres aciertos consecutivos: la próxima misión puede aumentar la dificultad."
+      }
+    }
+  },
+  {
+    "request": {
+      "mission_id": "IqQ477rVOEWSwWlxz-w_1_0NcEul6zt0f1gAZ87FEe4",
+      "activity_id": "JfPgEAV5aU4wu2sEaji9PPmP",
+      "answer": {
+        "modality": "ORDER_SEQUENCE",
+        "item_ids": [
+          "xuFnA7VOtUCC1b1NytWafwja",
+          "c_J1LKT1VnFmtu_-81b8n95_",
+          "PNav8p1e7nBNbA1h_5YdbZe4"
+        ]
+      }
+    },
+    "response": {
+      "mission_id": "IqQ477rVOEWSwWlxz-w_1_0NcEul6zt0f1gAZ87FEe4",
+      "activity_id": "JfPgEAV5aU4wu2sEaji9PPmP",
+      "correct": true,
+      "xp_awarded": 14,
+      "replayed": false,
+      "feedback": "¡Buen trabajo!",
+      "explanation": "Para estudiar una función, primero identifica el dominio.",
+      "solution": {
+        "modality": "ORDER_SEQUENCE",
+        "item_ids": [
+          "xuFnA7VOtUCC1b1NytWafwja",
+          "c_J1LKT1VnFmtu_-81b8n95_",
+          "PNav8p1e7nBNbA1h_5YdbZe4"
+        ]
+      },
+      "accepted_answers": [],
+      "progress": {
+        "answered": 4,
+        "correct": 4,
+        "total": 5,
+        "xp": 52,
+        "completed": false,
+        "can_advance": false,
+        "next_activity_id": "xVYHJvpgE1PeF9Uez5d7ip_D"
+      },
+      "adaptation": {
+        "action": "increase_difficulty",
+        "next_difficulty": "intermediate",
+        "review_objective_index": null,
+        "reason": "Tres aciertos consecutivos: la próxima misión puede aumentar la dificultad."
+      }
+    }
+  },
+  {
+    "request": {
+      "mission_id": "IqQ477rVOEWSwWlxz-w_1_0NcEul6zt0f1gAZ87FEe4",
+      "activity_id": "xVYHJvpgE1PeF9Uez5d7ip_D",
+      "answer": {
+        "modality": "FALLING_TILES",
+        "tile_ids": [
+          "zX2N7qQTQwrmrT4QK-We6QU8",
+          "_Zuq5RuBgxeGueplpPDQqrl3"
+        ]
+      }
+    },
+    "response": {
+      "mission_id": "IqQ477rVOEWSwWlxz-w_1_0NcEul6zt0f1gAZ87FEe4",
+      "activity_id": "xVYHJvpgE1PeF9Uez5d7ip_D",
+      "correct": true,
+      "xp_awarded": 12,
+      "replayed": false,
+      "feedback": "¡Buen trabajo!",
+      "explanation": "El dominio es el conjunto de entradas.",
+      "solution": {
+        "modality": "FALLING_TILES",
+        "tile_ids": [
+          "zX2N7qQTQwrmrT4QK-We6QU8",
+          "_Zuq5RuBgxeGueplpPDQqrl3"
+        ]
+      },
+      "accepted_answers": [],
+      "progress": {
+        "answered": 5,
+        "correct": 5,
+        "total": 5,
+        "xp": 64,
+        "completed": true,
+        "can_advance": true,
+        "next_activity_id": null
+      },
+      "adaptation": {
+        "action": "advance",
+        "next_difficulty": "intermediate",
+        "review_objective_index": null,
+        "reason": "Dominio observado: puedes avanzar al siguiente nivel."
+      }
+    }
+  }
+]

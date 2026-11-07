@@ -1,0 +1,26 @@
+{
+  "course_name": "Matemática",
+  "unit_title": "Funciones",
+  "level_id": "level-1",
+  "level_title": "Dominio y rango",
+  "objectives": [
+    "Identificar dominio y rango"
+  ],
+  "source_text": "Una función relaciona cada entrada con una salida.\nEl dominio es el conjunto de entradas. El rango es el conjunto de salidas.\nPara estudiar una función, primero identifica el dominio.\nDespués calcula las imágenes. Finalmente describe el rango.",
+  "activity_count": 5,
+  "profile": {
+    "study_area": "Ingeniería de Sistemas",
+    "academic_level": "Universitario, ciclo 1",
+    "learning_goal": "Comprender dominio y rango",
+    "available_minutes": 20,
+    "preferred_modalities": [
+      "MULTIPLE_CHOICE",
+      "FILL_BLANK",
+      "MEMORY_MATCH",
+      "ORDER_SEQUENCE",
+      "FALLING_TILES"
+    ],
+    "motivation_tone": "friendly",
+    "initial_knowledge": "beginner"
+  }
+}

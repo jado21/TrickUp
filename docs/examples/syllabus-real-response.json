@@ -1,0 +1,26 @@
+{
+  "course_name": "Cálculo I",
+  "summary": "Fundamentos de límites y continuidad de funciones reales.",
+  "units": [
+    {
+      "id": "unit-1",
+      "title": "Unidad 1: Límites y continuidad",
+      "levels": [
+        {
+          "id": "level-1-1",
+          "title": "Tema 1: Concepto de límite",
+          "objectives": [
+            "Interpretar límites de funciones a partir de gráficas."
+          ]
+        },
+        {
+          "id": "level-1-2",
+          "title": "Tema 2: Continuidad de funciones",
+          "objectives": [
+            "Identificar la continuidad de una función en un punto."
+          ]
+        }
+      ]
+    }
+  ]
+}

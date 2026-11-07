@@ -1,0 +1,121 @@
+{
+  "mission_id": "IqQ477rVOEWSwWlxz-w_1_0NcEul6zt0f1gAZ87FEe4",
+  "expires_at": "2026-11-07T16:36:35.270593Z",
+  "course_name": "Matemática",
+  "unit_title": "Funciones",
+  "level_id": "level-1",
+  "level_title": "Dominio y rango",
+  "difficulty": "beginner",
+  "activities": [
+    {
+      "id": "9qU4-Iib6u1KpUp1J2mZsQAz",
+      "prompt": "¿Qué es el dominio?",
+      "objective_index": 0,
+      "max_xp": 10,
+      "modality": "MULTIPLE_CHOICE",
+      "options": [
+        {
+          "id": "7e-C0IsFQVo5zYuriE4CINrP",
+          "text": "el promedio"
+        },
+        {
+          "id": "d6tlfhBsADsprvsV9u1oE7Dp",
+          "text": "el conjunto de salidas"
+        },
+        {
+          "id": "kbIgP9iWgU4nx_YEqLxWNd5l",
+          "text": "el conjunto de entradas"
+        },
+        {
+          "id": "QxeGnBvljKNcfBmrHLBlL_km",
+          "text": "un número negativo"
+        }
+      ]
+    },
+    {
+      "id": "xuDwhNC6e0ueNVJoWxHIQrzp",
+      "prompt": "El dominio de una función es ___.",
+      "objective_index": 0,
+      "max_xp": 12,
+      "modality": "FILL_BLANK"
+    },
+    {
+      "id": "OM7LcI1w9qDgKP-6wlG4OFTV",
+      "prompt": "Relaciona los conceptos con el material.",
+      "objective_index": 0,
+      "max_xp": 16,
+      "modality": "MEMORY_MATCH",
+      "left_cards": [
+        {
+          "id": "p38PpUnYfk3R7utKNjiKZ-HY",
+          "text": "rango"
+        },
+        {
+          "id": "SZ1J5RmaHezuZnmdpmJ8n8UY",
+          "text": "dominio"
+        }
+      ],
+      "right_cards": [
+        {
+          "id": "Zgo0LvACzqX8WQPyOAQadmjk",
+          "text": "el conjunto de salidas"
+        },
+        {
+          "id": "jK7VM6ng3Zza_9XFHwcEApfj",
+          "text": "el conjunto de entradas"
+        }
+      ]
+    },
+    {
+      "id": "JfPgEAV5aU4wu2sEaji9PPmP",
+      "prompt": "Ordena los pasos según el material.",
+      "objective_index": 0,
+      "max_xp": 14,
+      "modality": "ORDER_SEQUENCE",
+      "items": [
+        {
+          "id": "PNav8p1e7nBNbA1h_5YdbZe4",
+          "text": "describe el rango"
+        },
+        {
+          "id": "xuFnA7VOtUCC1b1NytWafwja",
+          "text": "identifica el dominio"
+        },
+        {
+          "id": "c_J1LKT1VnFmtu_-81b8n95_",
+          "text": "calcula las imágenes"
+        }
+      ]
+    },
+    {
+      "id": "xVYHJvpgE1PeF9Uez5d7ip_D",
+      "prompt": "Selecciona los conjuntos mencionados en el material.",
+      "objective_index": 0,
+      "max_xp": 12,
+      "modality": "FALLING_TILES",
+      "tiles": [
+        {
+          "id": "_Zuq5RuBgxeGueplpPDQqrl3",
+          "text": "el conjunto de salidas"
+        },
+        {
+          "id": "zX2N7qQTQwrmrT4QK-We6QU8",
+          "text": "el conjunto de entradas"
+        },
+        {
+          "id": "esYLahrWgTtTA_s01VOBz3L-",
+          "text": "el promedio numérico"
+        }
+      ]
+    }
+  ],
+  "progress": {
+    "answered": 0,
+    "correct": 0,
+    "total": 5,
+    "xp": 0,
+    "completed": false,
+    "can_advance": false,
+    "next_activity_id": "9qU4-Iib6u1KpUp1J2mZsQAz"
+  }
+}

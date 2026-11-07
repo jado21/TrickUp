@@ -1,0 +1,8 @@
+SÍLABO UNIVERSITARIO
+Curso: Cálculo I
+Descripción académica: Fundamentos de límites y continuidad de funciones reales.
+Unidad 1: Límites y continuidad
+Tema 1: Concepto de límite
+Objetivo: Interpretar límites de funciones a partir de gráficas.
+Tema 2: Continuidad de funciones
+Objetivo: Identificar la continuidad de una función en un punto.
